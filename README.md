@@ -12,8 +12,9 @@
 <img align='center' width="49%" src="https://github-readme-stats.vercel.app/api?username=lucaneg&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia" /> 
 <img align='center' width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaneg&theme=algolia&hide_border=true" />
 <br>
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaneg&&layout=default&hide_border=true&theme=algolia&count_private=true&include_all_commits=true" />
-<img align='center' src="https://github-profile-trophy.vercel.app/?username=lucaneg&theme=juicyfresh&no-frame=true&no-bg=true&row=2&column=3" />
+<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaneg&&layout=compact&hide_border=true&theme=algolia&count_private=true&include_all_commits=true" />
+<br>
+<img align='center' src="https://github-profile-trophy.vercel.app/?username=lucaneg&theme=juicyfresh&no-frame=true&no-bg=true&row=1" />
 </p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lucaneg.lucaneg)
