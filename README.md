@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Luca 👋
 
-<!--
-**lucaneg/lucaneg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +11,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=lucaneg.lucaneg)
+
+![lucaneg's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaneg&layout=default&hide_border=true&theme=dark)
+
+![lucaneg's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaneg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark) 
+
+![lucaneg's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=lucaneg&theme=dark&hide_border=true)
