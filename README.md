@@ -1,21 +1,14 @@
 ### Hi there, I'm Luca 👋
 
-<!-- Here are some ideas to get you started:
+💻 Software Engineer @ Corvallis Srl <br>
+🎓 PhD Student in Computer Science @ Ca' Foscari University of Venice <br>
+📑 Interests: Static Program Analysis, Program Verification, Abstract Interpretation <br>
+📌 Java Developer <br>
+📫 How to reach me: luca[dot]negrini[at]unive[dot]it
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![lucaneg's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaneg&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia) <br>
+![lucaneg's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=lucaneg&theme=algolia&hide_border=true)<br>
+![lucaneg's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaneg&&layout=default&hide_border=true&theme=algolia&count_private=true&include_all_commits=true)<br>
+![lucaneg's github trophy](https://github-profile-trophy.vercel.app/?username=lucaneg&theme=juicyfresh&no-frame=true&no-bg=true&row=1)<br>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lucaneg.lucaneg)
-
-![lucaneg's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaneg&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia) 
-&nbsp;&nbsp;![lucaneg's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaneg&&layout=compact&hide_border=true&theme=algolia&count_private=true&include_all_commits=true)
-
-![lucaneg's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=lucaneg&theme=algolia&hide_border=true)
-&nbsp;&nbsp;![lucaneg's github trophy](https://github-profile-trophy.vercel.app/?username=lucaneg&theme=juicyfresh&no-frame=true&no-bg=true&row=2&column=3)
