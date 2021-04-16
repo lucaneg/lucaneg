@@ -1,6 +1,6 @@
-<h1 align='center'> Hi there, I'm Luca :wave:</h1>
+<h1 align='center'> Hey there, I'm Luca :wave:</h1>
 
-<p style="padding-left: 20px">
+<p>
 💻 Software Engineer @ Corvallis Srl <br>
 🎓 PhD Student in Computer Science @ Ca' Foscari University of Venice <br>
 📑 Interests: Static Program Analysis, Program Verification, Abstract Interpretation <br>
@@ -8,9 +8,9 @@
 📫 How to reach me: luca[dot]negrini[at]unive[dot]it
 </p>
 
-<p align='center'>
+<p align="center">
 <img align='center' width="49%" src="https://github-readme-stats.vercel.app/api?username=lucaneg&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia" /> 
-<img align='center' width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaneg&theme=algolia&hide_border=true" />
+<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucaneg&theme=algolia&hide_border=true" />
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=lucaneg.lucaneg)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=lucaneg.lucaneg)
