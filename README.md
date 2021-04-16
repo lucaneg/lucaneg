@@ -14,8 +14,10 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lucaneg.lucaneg)
 
-![lucaneg's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaneg&layout=default&hide_border=true&theme=dark)
+![lucaneg's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaneg&layout=default&hide_border=true&theme=algolia&count_private=true&include_all_commits=true)
 
-![lucaneg's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaneg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark) 
+![lucaneg's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucaneg&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia) 
 
-![lucaneg's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=lucaneg&theme=dark&hide_border=true)
+![lucaneg's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=lucaneg&theme=algolia&hide_border=true)
+
+![lucaneg's github trophy](https://github-profile-trophy.vercel.app/?username=lucaneg&row=1)
