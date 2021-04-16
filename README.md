@@ -20,4 +20,4 @@
 
 ![lucaneg's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=lucaneg&theme=algolia&hide_border=true)
 
-![lucaneg's github trophy](https://github-profile-trophy.vercel.app/?username=lucaneg&row=1)
+![lucaneg's github trophy](https://github-profile-trophy.vercel.app/?username=lucaneg&row=1&theme=juicyfresh)
