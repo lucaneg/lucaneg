@@ -8,4 +8,4 @@
 📫 How to reach me: luca[dot]negrini[at]unive[dot]it
 
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=lucaneg&hide_title=true&line_height=21&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&text_color=8b949e&title_color=58a6ff&icon_color=58a6ff&hide_border=true" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaneg&hide_title=true&layout=compact&exclude_repo=lucaneg.github.io&langs_count=10&bg_color=00000000&text_color=8b949e&title_color=58a6ff&icon_color=58a6ff&hide_border=true" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=lucaneg&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=8b949e&icon_color=58a6ff&bg_color=00000000" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaneg&exclude_repo=lucaneg.github.io&hide_title=true&hide_border=true&layout=compact&langs_count=9&text_color=8b949e&icon_color=58a6ff&bg_color=00000000" />
