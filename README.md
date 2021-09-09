@@ -4,7 +4,7 @@
 💻 Software Engineer @ Corvallis Srl <br>
 🎓 PhD Student in Computer Science @ Ca' Foscari University of Venice <br>
 📑 Interests: Static Program Analysis, Program Verification, Abstract Interpretation <br>
-📌 Java Developer <br>
+📌 Java Developer - messing around with C# and Python <br>
 📫 How to reach me: luca[dot]negrini[at]unive[dot]it
 
 ---
