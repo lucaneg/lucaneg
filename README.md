@@ -7,7 +7,7 @@
 📌 Java Developer - messing around with C# and Python <br>
 📫 How to reach me: luca[dot]negrini[at]unive[dot]it <br>
 
-📚 Check out [LiSA](https://github.com/UniVE-SSV/lisa)!
+📚 Check out [LiSA](https://github.com/lisa-analyzer/lisa)!
 
 ---
 
