@@ -1,7 +1,7 @@
 ## Hey there, I'm Luca :wave:
 
 
-💻 Research Fellow @ Ca' Foscari University of Venice <br>
+💻 Assistant Professor (non-tenure) @ Ca' Foscari University of Venice <br>
 🎓 PhD in Computer Science <br>
 📑 Interests: Static Program Analysis, Program Verification, Abstract Interpretation <br>
 📌 Java Developer - messing around with C# and Python <br>
